@@ -48,7 +48,6 @@ I am communicative, enjoy teamwork, and always seek new learning opportunities.
 ### 📂 Projetos em destaque / Featured Projects
 - 🚀 **Landing Page Responsiva / Responsive Landing Page** – HTML/CSS/JS  
 - 🤖 **Assistente com IA / AI Assistant** – Python + API integration  
-- 🧩 **Sistema de Login e Cadastro / Login & Signup System** – Node.js + Express  
 
 ---
 
@@ -68,6 +67,16 @@ I am communicative, enjoy teamwork, and always seek new learning opportunities.
 
 ---
 
+### 📫 Contato / Contact
+<div align="center">
+
+💼 [LinkedIn](https://www.linkedin.com/in/anael-de-carvalho-3891a7390?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+📧 contato.anael.dev@gmail.com 
+
+</div>
+
+---
+
 ### 📊 GitHub Stats
 <div align="center">
 
@@ -76,12 +85,4 @@ I am communicative, enjoy teamwork, and always seek new learning opportunities.
 
 </div>
 
----
 
-### 📫 Contato / Contact
-<div align="center">
-
-💼 [LinkedIn](https://www.linkedin.com/in/anael-de-carvalho-3891a7390?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
-📧 contato.anael.dev@gmail.com 
-
-</div>
